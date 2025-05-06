@@ -1,0 +1,1 @@
+zip -r ./bin/game.love * && love ./bin/game.love

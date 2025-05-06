@@ -1,0 +1,1 @@
+return ECS.Component("id", "value", { value = Util.uuid })
